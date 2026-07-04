@@ -1,2 +1,3 @@
-#portfolio-web-App
-this my first git hub code
+print("Hi")
+print("hello")
+print("welcome")
