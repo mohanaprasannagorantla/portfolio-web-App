@@ -58,3 +58,38 @@ button[type=submit] {
 button[type=submit]:hover {
     background-color: #162447;
 }
+/* Core profile card styling */
+.about-container {
+    background-color: #f8f9fa;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    margin-bottom: 25px;
+}
+
+/* Custom styling for your main title */
+.main-title {
+    color: #2E4053;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+/* Sub-headline typography */
+.sub-title {
+    color: #5D6D7E;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+/* Skills badge container */
+.skill-badge {
+    display: inline-block;
+    background-color: #EBF5FB;
+    color: #2980B9;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-weight: bold;
+    margin: 5px;
+    font-size: 0.9rem;
+}

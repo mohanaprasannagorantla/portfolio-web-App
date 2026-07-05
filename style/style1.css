@@ -1,0 +1,32 @@
+.stApp {
+    background-color: #0f0f12;
+}
+
+/* Custom UI cards for holding project content */
+.project-card {
+    background-color: #1a1a1e !important;
+    padding: 24px !important;
+    border-radius: 12px !important;
+    border: 1px solid #2d2d34 !important;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out !important;
+}
+
+/* Hover effects targeting class objects */
+.project-card:hover {
+    transform: translateY(-5px);
+    border-color: #ff4b4b !important;
+    box-shadow: 0 8px 16px rgba(255, 75, 75, 0.15);
+}
+
+/* Custom stylized framework tag wrappers */
+.tech-badge {
+    background-color: rgba(255, 75, 75, 0.1) !important;
+    color: #ff4b4b !important;
+    padding: 4px 12px !important;
+    border-radius: 20px !important;
+    font-size: 11px !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+}
