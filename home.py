@@ -87,9 +87,9 @@ with hero_col2:
         """
         <div class="hero-container">
             <h1 class="hero-title">Hello, I'm Radhika</h1>
-            <p class="hero-subtitle">Full-Stack Developer & Data Solutions Architect</p>
+            <p class="hero-subtitle">Full Stack Developer </p>
             <p style="color: #cbd5e1;">
-                This is  My Portfolio  am Expert in  Developing webbasedApplications with  mutiple Techonologies like
+                This is  my portfolio  am expert in  developing web based applications with  mutiple techonologies like
             Java ,Python, Redhat Openshift ,Spring ,SpringBoot , Microservices
             </p>
         </div>
